@@ -19,10 +19,12 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 1. Clone este repositório:  
    ```bash  
-   git clone https://github.com/larissadcew/nim  
+   git clone https://github.com/larissadcew/nim
+   
 2. Acesse o diretório:
 ```bash  
    cd nim
+
 3.Execute o jogo:
 ```bash 
   python nim.py
