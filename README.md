@@ -32,7 +32,7 @@ Follow the steps below to run the project locally:
    ```bash
    git clone https://github.com/larissadcew/Atttention.git
    cd Atttention
-   python mask.py
+   python Atttention.py
 
    
 
