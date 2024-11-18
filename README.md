@@ -1,32 +1,33 @@
-# 🎮 Nim Game
-Bem-vindo ao repositório do **Nim**, um jogo clássico de estratégia implementado para desafiar suas habilidades lógicas e estratégicas!  
+# Nim Game 🎮
 
-## 📝 Sobre o Projeto  
-Este projeto é uma implementação do jogo **Nim**, onde dois jogadores (ou um jogador contra a máquina) se revezam para remover objetos de pilhas, tentando evitar ser aquele que pega o último objeto.  
+Welcome to the **Nim Game** repository! This project is a strategic implementation of the classic Nim game designed to challenge your logical and strategic thinking skills.
 
-## 🎯 Objetivo do Jogo  
-O jogador que for forçado a pegar o último objeto perde o jogo.  
-- 🎮 Modo de jogo: Humano vs Máquina  
-- 🧠 Inteligência Artificial: A máquina utiliza lógica para tomar decisões estratégicas.  
+---
 
-## ⚙️ Tecnologias Utilizadas  
-- **Python** 🐍: A base para toda a lógica e execução do jogo.  
-- **Algoritmos de IA** 🤖: Implementação de lógica estratégica para a máquina, garantindo uma experiência desafiadora.  
-- **Terminal** 💻: Interface simples e direta para interatividade com o usuário.  
+## 🧩 About the Project
+The Nim game is a two-player strategy game where participants take turns removing objects from piles, with the goal of avoiding being the one to take the last object.
 
-## 🚀 Como Rodar o Projeto  
-Siga os passos abaixo para rodar o projeto localmente:  
+### Game Features
+- **Game Modes**: Human vs. Machine
+- **AI Logic**: The machine employs strategic algorithms to ensure a challenging experience.
 
-1. Clone este repositório:  
-   ```bash  
-   git clone https://github.com/larissadcew/nim
-   
-2. Acesse o diretório:
-```bash  
-   cd nim
+---
 
-3.Execute o jogo:
-```bash 
-  python nim.py
+## 🎯 Objective
+The player forced to take the last object loses the game.
 
- 
+---
+
+## ⚙️ Technologies Used
+- **Python**: Core logic and execution of the game.
+- **AI Algorithms**: Implements strategic decision-making for the machine.
+- **Terminal Interface**: A straightforward interactive experience.
+
+---
+
+## 🚀 How to Run the Project
+Follow the steps below to run the project locally:
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/larissadcew/Atttention.git
