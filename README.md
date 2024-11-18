@@ -24,5 +24,6 @@ This project is dedicated to exploring and sharing methods for improving attenti
 1. Clone the repository:  
    ```bash
    git clone https://github.com/larissadcew/Attention.git
+   python mask.py
    
 
