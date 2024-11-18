@@ -28,6 +28,11 @@ The player forced to take the last object loses the game.
 ## 🚀 How to Run the Project
 Follow the steps below to run the project locally:
 
-1. Clone this repository:
+
    ```bash
    git clone https://github.com/larissadcew/Atttention.git
+   cd Atttention
+   python mask.py
+
+   
+
