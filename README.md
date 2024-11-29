@@ -1,4 +1,4 @@
-# Projeto: Analisando Máscara de Linguagem com BERT
+# Analisando Máscara de Linguagem com BERT
 
 ## Introdução
 
